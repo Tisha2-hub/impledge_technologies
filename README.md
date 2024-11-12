@@ -1,5 +1,3 @@
-# Compound Word Segregation Program
-
 ## Overview
 This program identifies compound words within a given text file(`Input_01.txt` and `Input_02.txt`). A compound word is defined as one that can be split into two or more smaller words present within the same list. The program also finds the largest and second-largest compound words in terms of character length. For efficiency, it utilizes memoization to store results of previously evaluated words, which helps reduce redundant calculations. 
 
